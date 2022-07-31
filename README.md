@@ -2,9 +2,5 @@ Hello and welcome to my portfolio. During this experience, I had so many challen
 
 Deployed Application: https://colinale.github.io/Professional-portfolio/
 Github Repository: https://github.com/colinale/Professional-portfolio
-
-Images: ![Screenshot of active Portfolio site](./assets/Images/first-page.png))
-![Screenshot of active Portfolio site](./assets/Images/second-page.png))
-![Screenshot of active Portfolio site](./assets/Images/third-page.png))
  
  Made by Colin
