@@ -6,3 +6,5 @@ Github Repository: https://github.com/colinale/Professional-portfolio
 Images: ![Screenshot of active Portfolio site](./assets/Images/first-page.png))
 ![Screenshot of active Portfolio site](./assets/Images/second-page.png))
 ![Screenshot of active Portfolio site](./assets/Images/third-page.png))
+ 
+ Made by Colin
